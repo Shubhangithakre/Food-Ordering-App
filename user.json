@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Shubhangi Thakre",
+        "password": "123654",
+        "age": "25",
+        "Email": "shubhangitha21@gmail.com",
+        "phone_number": "8263013931",
+        "address": "Nagpur",
+        "order history": {
+            "01-21-2023": [
+                "PaniPuri",
+                "Dosa"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ganesh",
+        "password": "123456",
+        "age": "50",
+        "Email": "ganesh@gmail.com",
+        "phone_number": "7448295942",
+        "address": "Amravti",
+        "order history": {
+            "01-21-2023": [
+                "Dosa",
+                "Idly",
+                "Chicken"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Geeta",
+        "password": "123458",
+        "age": "35",
+        "Email": "geeta35@gamil.com",
+        "phone_number": "8263013932",
+        "address": "Patna",
+        "order history": {
+            "01-21-2023": [
+                "PaniPuri"
+            ]
+        }
+    }
+]
